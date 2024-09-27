@@ -1,0 +1,22 @@
+{
+  "emails": [
+    {
+      "id": 1,
+      "from": "john.doe@example.com",
+      "to": "you@example.com",
+      "subject": "Meeting Reminder",
+      "body": "Don’t forget about our meeting at 3 PM.",
+      "date": "2024-09-27",
+      "isRead": false
+    },
+    {
+      "id": 2,
+      "from": "jane.smith@example.com",
+      "to": "you@example.com",
+      "subject": "Project Update",
+      "body": "The project is on track for next week’s deadline.",
+      "date": "2024-09-26",
+      "isRead": true
+    }
+  ]
+}
